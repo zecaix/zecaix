@@ -1,8 +1,11 @@
-### 🎨Zecaix 👋
+<h1>🎨Zecaix 👋</h1>
 
 *'Digital Craftsman'*
 
 As a Web Development student at CTU Training Solutions, I create and maintain user-friendly and responsive web pages using HTML, CSS, and JavaScript. I have earned two IT Specialist certifications from Certiport, a leading provider of performance-based certification exams, in HTML and CSS, and JavaScript. These certifications demonstrate my proficiency and knowledge in the core technologies of web development. At CTU, I have learned various programming languages and frameworks, such as Java, and Bootstrap. I have been developing wed pages for the past year, and I have contributed to several projects for during my studies, such as developing an e-commerce website, a portfolio showcase, and a quiz app. I have enjoyed working with a diverse and collaborative team of students and instructors, and I am always eager to learn new skills and technologies. My core competencies include web development, problem solving, communication, and teamwork. My goal is to become a full-stack web developer and create innovative and impactful web solutions for various industries and audiences. I am now looking for an opportunity to enter the world of work and gain some experience.
+
+</hr>
+<h2>🧰Languages and Tools</h2>
 
 <!--
 **zecaix/zecaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
