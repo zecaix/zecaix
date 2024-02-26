@@ -1,19 +1,9 @@
 # 🎨 Zecaix
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Chef/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+As a Web Development student at CTU Training Solutions, I create and maintain user-friendly and responsive web pages using HTML, CSS, and JavaScript. I have earned two IT Specialist certifications from Certiport, a leading provider of performance-based certification exams, in HTML and CSS, and JavaScript. These certifications demonstrate my proficiency and knowledge in the core technologies of web development. At CTU, I have learned various programming languages and frameworks, such as Java, and Bootstrap. I have been developing wed pages for the past year, and I have contributed to several projects for during my studies, such as developing an e-commerce website, a portfolio showcase, and a quiz app. I have enjoyed working with a diverse and collaborative team of students and instructors, and I am always eager to learn new skills and technologies. My core competencies include web development, problem solving, communication, and teamwork. My goal is to become a full-stack web developer and create innovative and impactful web solutions for various industries and audiences. I am now looking for an opportunity to enter the world of work and gain some experience.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
