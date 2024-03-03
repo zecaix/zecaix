@@ -22,7 +22,7 @@ As a Web Development student at CTU Training Solutions, I create and maintain us
 
 <details>
  <summary><h3>👨‍💻 Zecaix's Coding Journey</h3></summary>
-   I started my coding journey...
+   I started my coding journey... I later got a bursary from Workday in July 2023 that allowed me to further my studies.
 
 [website]: https://ziarikhotso.com
 
